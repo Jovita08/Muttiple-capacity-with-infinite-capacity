@@ -60,7 +60,7 @@ print("--------------------------------------------------------------")
 
 ```
 
-## Output
+## Output:
 ![237579514-b821e6ee-8f3e-4d7c-95f8-4be5fcf2a2b3](https://github.com/Aashima02/Muttiple-capacity-with-infinite-capacity/assets/93427086/b2edeba6-e9be-4cea-ad44-96d8ee50cfff)
 
 ## Result:
