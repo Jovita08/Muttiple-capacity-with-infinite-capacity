@@ -1,4 +1,4 @@
-### EX NO : 06
+### EX NO : 05
 ### DATE  : 
 # <p align="center">Multiple server with infinite capacity - (M/M/c):(oo/FIFO)</p>
 ## Aim :
